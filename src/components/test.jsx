@@ -6,5 +6,5 @@ function TestOne({name, age, addresss}){
         <div>my name is {name} age is {age} and adress{ addresss}</div>
     )
 }
-
+ 
 export default TestOne;
